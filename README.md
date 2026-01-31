@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jessica Kathramalla</h1>
 Aspiring Data Analyst and former Software Engineer with a master’s background in Information Systems, highly skilled in leveraging Excel, SQL, and Power BI to build dashboards, manage stakeholder data, and deliver actionable business intelligence that supports informed decision-making. 
 
-### Open for Hire: [View My Resume](https://drive.google.com)
+## Open for Hire: [View My Resume](https://drive.google.com)
 
-### Expertise     <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="35">     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="65">     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="35">
+## Expertise     <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="35">     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="65">     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="35">
 
-### Let’s Connect [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/gmail-icon-logo.png" width="45">](mailto:jessicaswareena@gmail.com) [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="75">](https://www.linkedin.com/in/jessica-swareena)
+## Let’s Connect [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/gmail-icon-logo.png" width="45">](mailto:jessicaswareena@gmail.com) [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="75">](https://www.linkedin.com/in/jessica-swareena)
 
 ## 💼 Work Demos
 **E-Commerce Funnel & Conversion Optimization Analysis**[Go to Project](https://github.com/jessicaswareena/Marketing-Conversion-Funnel-Revenue-Optimization-Analysis)
