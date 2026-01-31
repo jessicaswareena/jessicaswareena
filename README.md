@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jessica Kathramalla</h1>
 Aspiring Data Analyst and former Software Engineer with a master’s background in Information Systems, highly skilled in leveraging Excel, SQL, and Power BI to build dashboards, manage stakeholder data, and deliver actionable business intelligence that supports informed decision-making. 
 
-**Open for Hire**: [View My Resume](https://drive.google.com)
+## Open for Hire: [View My Resume](https://drive.google.com)
 
-**Expertise** <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+**Expertise** <img src=""/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/> 
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="100">
 
 **Let’s Connect**
 
@@ -37,5 +39,5 @@ Wobly is a B2B SaaS company offering workflow and collaboration tools through a 
 </p>
 
 
-### ⭐ If you’re looking for a data analyst who combines technical depth with business impact, let’s collaborate!
+
 
