@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jessica Kathramalla</h1>
+<h1 align="center">Hey there 👋, I'm Jessica Kathramalla</h1>
+
 ## Aspiring Data Analyst and former Software Engineer with a master’s background in Information Systems, highly skilled in leveraging Excel, SQL, and Power BI to build dashboards, manage stakeholder data, and deliver actionable business intelligence that supports informed decision-making. 
 
 ## Open for Hire: [View My Resume](https://drive.google.com)
@@ -16,7 +17,7 @@
 
 ### [SaaS Revenue & Retention Analytics](https://github.com/jessicaswareena/Saas_Revenue_and_Monetization_Analytics)
 
-**Project Overview**: Wobly is a B2B SaaS company offering workflow and collaboration tools through a subscription model. Despite steady customer growth, the company experienced declining Monthly Recurring Revenue (MRR) from January 2024 to June 2025. This project analyzed revenue drivers—including new sales, upgrades, downgrades, and churn—using SQL and dashboard reporting. The analysis uncovered major retention gaps and revenue leakage, supporting leadership in improving customer retention and long-term growth strategy.
+**Project Overview**: Wobly is a B2B SaaS company offering workflow and collaboration tools through a subscription model. Despite steady customer growth, the company experienced declining Monthly Recurring Revenue (MRR) from January 2024 to June 2025. This project analyzed revenue drivers including new sales, upgrades, downgrades, and churn using SQL and dashboard reporting. The analysis uncovered major retention gaps and revenue leakage, supporting leadership in improving customer retention and long-term growth strategy.
 
 **Tools Used**: SQL, Excel, PowerBI
 
