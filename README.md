@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Jessica Kathramalla</h1>
 
-## Aspiring Data Analyst and former Software Engineer with a master’s background in Information Systems, highly skilled in leveraging Excel, SQL, and Power BI to build dashboards, manage stakeholder data, and deliver actionable business intelligence that supports informed decision-making. 
+<h2> Aspiring Data Analyst and former Software Engineer with a master’s background in Information Systems, highly skilled in leveraging Excel, SQL, and Power BI to build dashboards, manage stakeholder data, and deliver actionable business intelligence that supports informed decision-making.</h2>
 
 ## Open for Hire: [View My Resume](https://drive.google.com)
 
