@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEoJi5Pdh3LdQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719927656109?e=2147483647&v=beta&t=-jlqcGuwhfZRg0_HHh7KUvDrLdUt0te2GGCgCr9f4UQ" width="800">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEoJi5Pdh3LdQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719927656109?e=2147483647&v=beta&t=-jlqcGuwhfZRg0_HHh7KUvDrLdUt0te2GGCgCr9f4UQ" width="1000">
 </p>
 
 <h1 align="center">Hey there 👋, I'm Jessica Kathramalla</h1>
