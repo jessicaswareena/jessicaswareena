@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEoJi5Pdh3LdQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719927656109?e=2147483647&v=beta&t=-jlqcGuwhfZRg0_HHh7KUvDrLdUt0te2GGCgCr9f4UQ" width="50"> 
 <h1 align="center">Hey there 👋, I'm Jessica Kathramalla</h1>
 
 <h3> Aspiring Data Analyst and former Software Engineer with a master’s background in Information Systems, highly skilled in leveraging Excel, SQL, and Power BI to build dashboards, manage stakeholder data, and deliver actionable business intelligence that supports informed decision-making.</h3>
