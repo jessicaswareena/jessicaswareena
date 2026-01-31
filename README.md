@@ -6,7 +6,7 @@
 
 ## Expertise     <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="35">     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="65">     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="35">
 
-## Let’s Connect [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/gmail-icon-logo.png" width="45">](mailto:jessicaswareena@gmail.com) [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="85">](https://www.linkedin.com/in/jessica-swareena)
+## Let’s Connect [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/gmail-icon-logo.png" width="45">](mailto:jessicaswareena@gmail.com) [<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="100">](https://www.linkedin.com/in/jessica-swareena)
 
 ## 💼 Work Demos
 ### [E-Commerce Funnel & Conversion Optimization Analysis](https://github.com/jessicaswareena/Marketing-Conversion-Funnel-Revenue-Optimization-Analysis)
