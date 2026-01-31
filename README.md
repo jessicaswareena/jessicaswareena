@@ -3,11 +3,7 @@ Aspiring Data Analyst and former Software Engineer with a master’s background 
 
 ### Open for Hire: [View My Resume](https://drive.google.com)
 
-**Expertise** <img src=""/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/> 
-<img src="https://img.icons8.com/color/48/power-bi.png"/>
-
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="100">
+### Expertise <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50"> <img src="https://img.icons8.com/color/48/power-bi.png" width="50">
 
 **Let’s Connect**
 
