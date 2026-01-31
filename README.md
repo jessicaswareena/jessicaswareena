@@ -5,7 +5,8 @@ Aspiring Data Analyst and former Software Engineer with a master’s background 
 
 ### Expertise     <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="25">     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50">     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="25">
 
-### Let’s Connect [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/gmail-icon-logo.png" width="50">](mailto:jessicaswareena@gmail.com) [<img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-701751694779193uxxevujc5p.png" width="50">](https://www.linkedin.com/in/jessica-swareena)
+### Let’s Connect [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/gmail-icon-logo.png" width="30">](mailto:jessicaswareena@gmail.com)
+[<img src="https://as2.ftcdn.net/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg" width="50">](https://www.linkedin.com/in/jessica-swareena)
 
 ## 💼 Work Demos
 **E-Commerce Funnel & Conversion Optimization Analysis**[Go to Project](https://github.com/jessicaswareena/Marketing-Conversion-Funnel-Revenue-Optimization-Analysis)
