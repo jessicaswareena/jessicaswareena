@@ -6,7 +6,7 @@
 
 <h3> Aspiring Data Analyst and former Software Engineer with a master’s background in Information Systems, highly skilled in leveraging Excel, SQL, and Power BI to build dashboards, manage stakeholder data, and deliver actionable business intelligence that supports informed decision-making.</h3>
 
-## Open for Hire: [View My Resume](https://drive.google.com/drive/home)
+## Open for Hire: [View My Resume](https://drive.google.com/file/d/17Szt-n49YuZ6zsklydgSCUfKb_RA8M8V/view?usp=sharing)
 
 ## Expertise     <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="35">     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="65">     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="35">
 
